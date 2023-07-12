@@ -1,9 +1,9 @@
 # Name: Jordan Wheeler
+## GitHub: 
+https://github.com/jordanwheeler7/Mod3_Matplotlib_PyPlot
 ## Course
 CSIS 44620 WEB MINING & APPLIED NLP 80/81SU23
 Module 3 Assignment
-## GitHub: 
-https://github.com/jordanwheeler7/Mod3_Matplotlib_PyPlot
 
 # Matplotlib and pyplot
 
